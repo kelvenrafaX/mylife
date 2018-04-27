@@ -59,7 +59,7 @@
             </div>
           </div>
           <div class="col-md-12 mt-5">
-            <hr>
+            <!-- <hr>
               <div class="alert alert-info">
                 <h4>Filtros</h4>
                 <label for="[object Object]"> Semestre
@@ -77,7 +77,7 @@
                     <option value="10">10° semestre</option>
                   </select>
                 </label>
-              </div>
+              </div> -->
             <hr>
             <h2>Minhas disciplinas</h2>
             <hr>

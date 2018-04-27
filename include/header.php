@@ -23,6 +23,6 @@
     <!-- Custom styles for this template -->
     <link href="/mylife/assets/css/resume.min.css" rel="stylesheet">
 
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/mylife/assets/vendor/jquery/jquery.min.js"></script>
 
   </head>

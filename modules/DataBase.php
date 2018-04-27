@@ -14,7 +14,7 @@ class DataBase {
         // 3306
         $username = "root";
         $password = "1234";
-        $database = "mylife";
+        $database = "raissa";
 
         // Create connection
         $conn = mysqli_connect($servername, $username, $password, $database);
