@@ -5,11 +5,6 @@ namespace modules;
 class DataBase {
 
     public function abrirConexao(){
-        // $servername = "mysql.hostinger.com.br";
-        // $username = "u268183283_user";
-        // $password = "jOhVoAdmpK9U";
-        // $database = "u268183283_raiss";
-
         $servername = "localhost";
         // 3306
         $username = "root";
